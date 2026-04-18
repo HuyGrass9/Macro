@@ -1,4 +1,4 @@
 [92mlocal Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Workspace = game:GetService("Workspace")
-local RunService = game:GetService("RunService")
-local UserInputService = game[0m
+local RunService =[0m
